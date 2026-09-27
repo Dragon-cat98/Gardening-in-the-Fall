@@ -1,0 +1,522 @@
+fileFormatVersion: 2
+guid: acb35fd1215594542af0bdc610f4b7fb
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6348293056505490409
+    second: strawberries_trimmings_0
+  - first:
+      213: -453101141667168758
+    second: strawberries_trimmings_1
+  - first:
+      213: -6312529192401357650
+    second: strawberries_trimmings_2
+  - first:
+      213: 8451649663090231969
+    second: strawberries_trimmings_3
+  - first:
+      213: -4558227639475860509
+    second: strawberries_trimmings_4
+  - first:
+      213: -6096167361717005865
+    second: strawberries_trimmings_5
+  - first:
+      213: 7443239351998858908
+    second: strawberries_trimmings_6
+  - first:
+      213: 165952973332792737
+    second: strawberries_trimmings_7
+  - first:
+      213: -5100959190675306629
+    second: strawberries_trimmings_8
+  - first:
+      213: -8605307951374080479
+    second: strawberries_trimmings_9
+  - first:
+      213: -7783968529753409124
+    second: strawberries_trimmings_10
+  - first:
+      213: 6359619617932862262
+    second: strawberries_trimmings_11
+  - first:
+      213: 8624208476043845390
+    second: strawberries_trimmings_12
+  - first:
+      213: 1126034363880635639
+    second: strawberries_trimmings_13
+  - first:
+      213: 706992813267493774
+    second: strawberries_trimmings_14
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: strawberries_trimmings_0
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 848
+        width: 86
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9eba61376eaa91850800000000000000
+      internalID: 6348293056505490409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: strawberries_trimmings_1
+      rect:
+        serializedVersion: 2
+        x: 857
+        y: 868
+        width: 73
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0eba9b89e246b9f0800000000000000
+      internalID: -453101141667168758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: strawberries_trimmings_2
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 804
+        width: 79
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea432ac05246568a0800000000000000
+      internalID: -6312529192401357650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: strawberries_trimmings_3
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 727
+        width: 73
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1aa0b8ef69a4a4570800000000000000
+      internalID: 8451649663090231969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: strawberries_trimmings_4
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 667
+        width: 76
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3eb8ca7cc1cedb0c0800000000000000
+      internalID: -4558227639475860509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: strawberries_trimmings_5
+      rect:
+        serializedVersion: 2
+        x: 643
+        y: 703
+        width: 78
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d117895510166ba0800000000000000
+      internalID: -6096167361717005865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: strawberries_trimmings_6
+      rect:
+        serializedVersion: 2
+        x: 848
+        y: 692
+        width: 81
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c96c91231c2bb4760800000000000000
+      internalID: 7443239351998858908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: strawberries_trimmings_7
+      rect:
+        serializedVersion: 2
+        x: 1005
+        y: 721
+        width: 74
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a5cbe899559d4200800000000000000
+      internalID: 165952973332792737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: strawberries_trimmings_8
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 642
+        width: 62
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b77c80264a0c539b0800000000000000
+      internalID: -5100959190675306629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: strawberries_trimmings_9
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 651
+        width: 76
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 126e087d20ec39880800000000000000
+      internalID: -8605307951374080479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: strawberries_trimmings_10
+      rect:
+        serializedVersion: 2
+        x: 613
+        y: 635
+        width: 53
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c997a390dd9c9f390800000000000000
+      internalID: -7783968529753409124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: strawberries_trimmings_11
+      rect:
+        serializedVersion: 2
+        x: 1004
+        y: 631
+        width: 48
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6336e790958e14850800000000000000
+      internalID: 6359619617932862262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: strawberries_trimmings_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 14
+        width: 386
+        height: 476
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0f918b7ae75fa770800000000000000
+      internalID: 8624208476043845390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: strawberries_trimmings_13
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 0
+        width: 330
+        height: 491
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7fcfcf7b94a70af00800000000000000
+      internalID: 1126034363880635639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: strawberries_trimmings_14
+      rect:
+        serializedVersion: 2
+        x: 775
+        y: 1
+        width: 370
+        height: 505
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e832095c73ebfc900800000000000000
+      internalID: 706992813267493774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      strawberries_trimmings_0: 6348293056505490409
+      strawberries_trimmings_1: -453101141667168758
+      strawberries_trimmings_10: -7783968529753409124
+      strawberries_trimmings_11: 6359619617932862262
+      strawberries_trimmings_12: 8624208476043845390
+      strawberries_trimmings_13: 1126034363880635639
+      strawberries_trimmings_14: 706992813267493774
+      strawberries_trimmings_2: -6312529192401357650
+      strawberries_trimmings_3: 8451649663090231969
+      strawberries_trimmings_4: -4558227639475860509
+      strawberries_trimmings_5: -6096167361717005865
+      strawberries_trimmings_6: 7443239351998858908
+      strawberries_trimmings_7: 165952973332792737
+      strawberries_trimmings_8: -5100959190675306629
+      strawberries_trimmings_9: -8605307951374080479
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

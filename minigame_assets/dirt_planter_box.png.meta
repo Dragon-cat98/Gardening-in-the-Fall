@@ -1,0 +1,1224 @@
+fileFormatVersion: 2
+guid: d6ca4d2e7884a944fad96f8235a95096
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4440949095338454200
+    second: dirt_planter_box_0
+  - first:
+      213: 2987771640635389920
+    second: dirt_planter_box_1
+  - first:
+      213: -4553253850544904859
+    second: dirt_planter_box_2
+  - first:
+      213: -4095488571012032104
+    second: dirt_planter_box_3
+  - first:
+      213: 3955505194619597180
+    second: dirt_planter_box_4
+  - first:
+      213: 5578449995108161875
+    second: dirt_planter_box_5
+  - first:
+      213: 3744892348937277701
+    second: dirt_planter_box_6
+  - first:
+      213: -3265465330563659790
+    second: dirt_planter_box_7
+  - first:
+      213: -6538065099696676796
+    second: dirt_planter_box_8
+  - first:
+      213: -3076824293475010540
+    second: dirt_planter_box_9
+  - first:
+      213: -1406164101328321749
+    second: dirt_planter_box_10
+  - first:
+      213: -7616168799973655529
+    second: dirt_planter_box_11
+  - first:
+      213: -1364900084579531592
+    second: dirt_planter_box_12
+  - first:
+      213: 3828582708131170961
+    second: dirt_planter_box_13
+  - first:
+      213: 2918131583427977337
+    second: dirt_planter_box_14
+  - first:
+      213: -8199187169843565233
+    second: dirt_planter_box_15
+  - first:
+      213: 7791421588600285705
+    second: dirt_planter_box_16
+  - first:
+      213: -6450587399980909471
+    second: dirt_planter_box_17
+  - first:
+      213: -5160456727465294918
+    second: dirt_planter_box_18
+  - first:
+      213: -5262537384428137899
+    second: dirt_planter_box_19
+  - first:
+      213: -7573851347084295937
+    second: dirt_planter_box_20
+  - first:
+      213: -3567002999803198626
+    second: dirt_planter_box_21
+  - first:
+      213: -679950440774645313
+    second: dirt_planter_box_22
+  - first:
+      213: 1212641102504970531
+    second: dirt_planter_box_23
+  - first:
+      213: -2559844903723944033
+    second: dirt_planter_box_24
+  - first:
+      213: -563151545949720471
+    second: dirt_planter_box_25
+  - first:
+      213: -4324204296057521544
+    second: dirt_planter_box_26
+  - first:
+      213: -2464539319914214533
+    second: dirt_planter_box_27
+  - first:
+      213: -3046172792727128386
+    second: dirt_planter_box_28
+  - first:
+      213: -6378709036285976731
+    second: dirt_planter_box_29
+  - first:
+      213: -3822465342811796594
+    second: dirt_planter_box_30
+  - first:
+      213: 3604559477621328232
+    second: dirt_planter_box_31
+  - first:
+      213: 653049507414488222
+    second: dirt_planter_box_32
+  - first:
+      213: 2999603444174379677
+    second: dirt_planter_box_33
+  - first:
+      213: 6988859228898059468
+    second: dirt_planter_box_34
+  - first:
+      213: -6803752722430092765
+    second: dirt_planter_box_35
+  - first:
+      213: -199177815821694779
+    second: dirt_planter_box_36
+  - first:
+      213: -3808803171925229967
+    second: dirt_planter_box_37
+  - first:
+      213: 4551940658666086049
+    second: dirt_planter_box_38
+  - first:
+      213: 1411784647667287473
+    second: dirt_planter_box_39
+  - first:
+      213: 6427769846765712795
+    second: dirt_planter_box_40
+  - first:
+      213: 2906593204857226434
+    second: dirt_planter_box_41
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: dirt_planter_box_0
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 932
+        width: 110
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8bcad3d4cab61ad30800000000000000
+      internalID: 4440949095338454200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dirt_planter_box_1
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 1013
+        width: 28
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e7fe0e2a72b67920800000000000000
+      internalID: 2987771640635389920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dirt_planter_box_2
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 1018
+        width: 28
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56567124fb79fc0c0800000000000000
+      internalID: -4553253850544904859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dirt_planter_box_3
+      rect:
+        serializedVersion: 2
+        x: 473
+        y: 966
+        width: 69
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 899d72fe7d6e927c0800000000000000
+      internalID: -4095488571012032104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dirt_planter_box_4
+      rect:
+        serializedVersion: 2
+        x: 781
+        y: 985
+        width: 45
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7173807407c4e630800000000000000
+      internalID: 3955505194619597180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dirt_planter_box_5
+      rect:
+        serializedVersion: 2
+        x: 828
+        y: 999
+        width: 36
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35993b3f6b2aa6d40800000000000000
+      internalID: 5578449995108161875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dirt_planter_box_6
+      rect:
+        serializedVersion: 2
+        x: 1037
+        y: 963
+        width: 55
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5011c7400c788f330800000000000000
+      internalID: 3744892348937277701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dirt_planter_box_7
+      rect:
+        serializedVersion: 2
+        x: 1073
+        y: 992
+        width: 40
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f74661459cbea2d0800000000000000
+      internalID: -3265465330563659790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dirt_planter_box_8
+      rect:
+        serializedVersion: 2
+        x: 1332
+        y: 925
+        width: 106
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44063369e602445a0800000000000000
+      internalID: -6538065099696676796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dirt_planter_box_9
+      rect:
+        serializedVersion: 2
+        x: 1379
+        y: 1004
+        width: 34
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41831275b9cec45d0800000000000000
+      internalID: -3076824293475010540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dirt_planter_box_10
+      rect:
+        serializedVersion: 2
+        x: 1571
+        y: 1002
+        width: 45
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b234b64333d4c7ce0800000000000000
+      internalID: -1406164101328321749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dirt_planter_box_11
+      rect:
+        serializedVersion: 2
+        x: 1600
+        y: 951
+        width: 69
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71c382024deed4690800000000000000
+      internalID: -7616168799973655529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dirt_planter_box_12
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 942
+        width: 42
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b48cb8ca96ee0de0800000000000000
+      internalID: -1364900084579531592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dirt_planter_box_13
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 958
+        width: 51
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19a8c5730bbd12530800000000000000
+      internalID: 3828582708131170961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dirt_planter_box_14
+      rect:
+        serializedVersion: 2
+        x: 750
+        y: 958
+        width: 41
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 970a216d6394f7820800000000000000
+      internalID: 2918131583427977337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dirt_planter_box_15
+      rect:
+        serializedVersion: 2
+        x: 795
+        y: 946
+        width: 63
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4da88ec5b2a63e80800000000000000
+      internalID: -8199187169843565233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dirt_planter_box_16
+      rect:
+        serializedVersion: 2
+        x: 920
+        y: 932
+        width: 95
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90a64d377a0b02c60800000000000000
+      internalID: 7791421588600285705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dirt_planter_box_17
+      rect:
+        serializedVersion: 2
+        x: 1330
+        y: 982
+        width: 28
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16cf687bfe8ea76a0800000000000000
+      internalID: -6450587399980909471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dirt_planter_box_18
+      rect:
+        serializedVersion: 2
+        x: 1481
+        y: 935
+        width: 41
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab308a892ff5268b0800000000000000
+      internalID: -5160456727465294918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dirt_planter_box_19
+      rect:
+        serializedVersion: 2
+        x: 1653
+        y: 970
+        width: 39
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55292f78126b7f6b0800000000000000
+      internalID: -5262537384428137899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dirt_planter_box_20
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 948
+        width: 33
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff04d6be35644e690800000000000000
+      internalID: -7573851347084295937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dirt_planter_box_21
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 936
+        width: 22
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e534af3aba57f7ec0800000000000000
+      internalID: -3567002999803198626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dirt_planter_box_22
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 935
+        width: 26
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb9c1c83da45096f0800000000000000
+      internalID: -679950440774645313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dirt_planter_box_23
+      rect:
+        serializedVersion: 2
+        x: 454
+        y: 939
+        width: 61
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 329c8da68aa24d010800000000000000
+      internalID: 1212641102504970531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dirt_planter_box_24
+      rect:
+        serializedVersion: 2
+        x: 519
+        y: 928
+        width: 31
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f97b0796f9a997cd0800000000000000
+      internalID: -2559844903723944033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dirt_planter_box_25
+      rect:
+        serializedVersion: 2
+        x: 875
+        y: 946
+        width: 33
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96074f417a84f28f0800000000000000
+      internalID: -563151545949720471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dirt_planter_box_26
+      rect:
+        serializedVersion: 2
+        x: 1046
+        y: 935
+        width: 41
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87af5457a175df3c0800000000000000
+      internalID: -4324204296057521544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dirt_planter_box_27
+      rect:
+        serializedVersion: 2
+        x: 1077
+        y: 954
+        width: 28
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7bc785db823ccdd0800000000000000
+      internalID: -2464539319914214533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dirt_planter_box_28
+      rect:
+        serializedVersion: 2
+        x: 1545
+        y: 921
+        width: 56
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb63a0dfbf1d9b5d0800000000000000
+      internalID: -3046172792727128386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dirt_planter_box_29
+      rect:
+        serializedVersion: 2
+        x: 1660
+        y: 940
+        width: 32
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56f99966de54a77a0800000000000000
+      internalID: -6378709036285976731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dirt_planter_box_30
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 921
+        width: 25
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8b0673e500e3fac0800000000000000
+      internalID: -3822465342811796594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dirt_planter_box_31
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 922
+        width: 51
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86903634fb7f50230800000000000000
+      internalID: 3604559477621328232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dirt_planter_box_32
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 798
+        width: 260
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e943f262119101900800000000000000
+      internalID: 653049507414488222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dirt_planter_box_33
+      rect:
+        serializedVersion: 2
+        x: 834
+        y: 801
+        width: 262
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9a5d0d907bb0a920800000000000000
+      internalID: 2999603444174379677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dirt_planter_box_34
+      rect:
+        serializedVersion: 2
+        x: 1146
+        y: 803
+        width: 255
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc4edaba07a6df060800000000000000
+      internalID: 6988859228898059468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dirt_planter_box_35
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 644
+        width: 259
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32a15ff52f63491a0800000000000000
+      internalID: -6803752722430092765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dirt_planter_box_36
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 648
+        width: 262
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c84fc0f4d06c3df0800000000000000
+      internalID: -199177815821694779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dirt_planter_box_37
+      rect:
+        serializedVersion: 2
+        x: 683
+        y: 650
+        width: 254
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17ef30ee1b9642bc0800000000000000
+      internalID: -3808803171925229967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dirt_planter_box_38
+      rect:
+        serializedVersion: 2
+        x: 1014
+        y: 643
+        width: 259
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ae137e69edbb2f30800000000000000
+      internalID: 4551940658666086049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dirt_planter_box_39
+      rect:
+        serializedVersion: 2
+        x: 1316
+        y: 647
+        width: 262
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b50f8738aaa79310800000000000000
+      internalID: 1411784647667287473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dirt_planter_box_40
+      rect:
+        serializedVersion: 2
+        x: 1628
+        y: 649
+        width: 254
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b95ff6eae96043950800000000000000
+      internalID: 6427769846765712795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dirt_planter_box_41
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 15
+        width: 1517
+        height: 603
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c4441abe1b465820800000000000000
+      internalID: 2906593204857226434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      dirt_planter_box_0: 4440949095338454200
+      dirt_planter_box_1: 2987771640635389920
+      dirt_planter_box_10: -1406164101328321749
+      dirt_planter_box_11: -7616168799973655529
+      dirt_planter_box_12: -1364900084579531592
+      dirt_planter_box_13: 3828582708131170961
+      dirt_planter_box_14: 2918131583427977337
+      dirt_planter_box_15: -8199187169843565233
+      dirt_planter_box_16: 7791421588600285705
+      dirt_planter_box_17: -6450587399980909471
+      dirt_planter_box_18: -5160456727465294918
+      dirt_planter_box_19: -5262537384428137899
+      dirt_planter_box_2: -4553253850544904859
+      dirt_planter_box_20: -7573851347084295937
+      dirt_planter_box_21: -3567002999803198626
+      dirt_planter_box_22: -679950440774645313
+      dirt_planter_box_23: 1212641102504970531
+      dirt_planter_box_24: -2559844903723944033
+      dirt_planter_box_25: -563151545949720471
+      dirt_planter_box_26: -4324204296057521544
+      dirt_planter_box_27: -2464539319914214533
+      dirt_planter_box_28: -3046172792727128386
+      dirt_planter_box_29: -6378709036285976731
+      dirt_planter_box_3: -4095488571012032104
+      dirt_planter_box_30: -3822465342811796594
+      dirt_planter_box_31: 3604559477621328232
+      dirt_planter_box_32: 653049507414488222
+      dirt_planter_box_33: 2999603444174379677
+      dirt_planter_box_34: 6988859228898059468
+      dirt_planter_box_35: -6803752722430092765
+      dirt_planter_box_36: -199177815821694779
+      dirt_planter_box_37: -3808803171925229967
+      dirt_planter_box_38: 4551940658666086049
+      dirt_planter_box_39: 1411784647667287473
+      dirt_planter_box_4: 3955505194619597180
+      dirt_planter_box_40: 6427769846765712795
+      dirt_planter_box_41: 2906593204857226434
+      dirt_planter_box_5: 5578449995108161875
+      dirt_planter_box_6: 3744892348937277701
+      dirt_planter_box_7: -3265465330563659790
+      dirt_planter_box_8: -6538065099696676796
+      dirt_planter_box_9: -3076824293475010540
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

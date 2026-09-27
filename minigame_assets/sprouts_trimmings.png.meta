@@ -1,0 +1,626 @@
+fileFormatVersion: 2
+guid: 314557332b53bfa47a4cb2dc2faeb9e2
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5289548332188948489
+    second: sprouts_trimmings_0
+  - first:
+      213: -2889386126624859139
+    second: sprouts_trimmings_1
+  - first:
+      213: -5006749516809339958
+    second: sprouts_trimmings_2
+  - first:
+      213: 7520388974541587486
+    second: sprouts_trimmings_3
+  - first:
+      213: 1587817168119006850
+    second: sprouts_trimmings_4
+  - first:
+      213: -6776196331253087926
+    second: sprouts_trimmings_5
+  - first:
+      213: -8869142043751030869
+    second: sprouts_trimmings_6
+  - first:
+      213: -8031982264270315978
+    second: sprouts_trimmings_7
+  - first:
+      213: 1729690830127516511
+    second: sprouts_trimmings_8
+  - first:
+      213: -1043237105310911799
+    second: sprouts_trimmings_9
+  - first:
+      213: 6554601131283021742
+    second: sprouts_trimmings_10
+  - first:
+      213: -944529375472839473
+    second: sprouts_trimmings_11
+  - first:
+      213: 3284044627723063726
+    second: sprouts_trimmings_12
+  - first:
+      213: -903585372621323172
+    second: sprouts_trimmings_13
+  - first:
+      213: 1746584583206425553
+    second: sprouts_trimmings_14
+  - first:
+      213: 1975351802121620400
+    second: sprouts_trimmings_15
+  - first:
+      213: -1819943053022170384
+    second: sprouts_trimmings_16
+  - first:
+      213: -8405424668007386992
+    second: sprouts_trimmings_17
+  - first:
+      213: 4449008806605426662
+    second: sprouts_trimmings_18
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: sprouts_trimmings_0
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 815
+        width: 32
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 908d162de20486940800000000000000
+      internalID: 5289548332188948489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprouts_trimmings_1
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 847
+        width: 81
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dfb559f50a6d6e7d0800000000000000
+      internalID: -2889386126624859139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprouts_trimmings_2
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 839
+        width: 66
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: acb783367d3748ab0800000000000000
+      internalID: -5006749516809339958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprouts_trimmings_3
+      rect:
+        serializedVersion: 2
+        x: 909
+        y: 847
+        width: 72
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e14c0587de9cd5860800000000000000
+      internalID: 7520388974541587486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprouts_trimmings_4
+      rect:
+        serializedVersion: 2
+        x: 475
+        y: 727
+        width: 75
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28600024d4f090610800000000000000
+      internalID: 1587817168119006850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprouts_trimmings_5
+      rect:
+        serializedVersion: 2
+        x: 818
+        y: 675
+        width: 74
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a41ca5ba65d16f1a0800000000000000
+      internalID: -6776196331253087926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprouts_trimmings_6
+      rect:
+        serializedVersion: 2
+        x: 1001
+        y: 730
+        width: 73
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bafdcbb4d4a7ae480800000000000000
+      internalID: -8869142043751030869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprouts_trimmings_7
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 575
+        width: 59
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63e1ee79faaa88090800000000000000
+      internalID: -8031982264270315978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprouts_trimmings_8
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 598
+        width: 64
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5b400d45a8110810800000000000000
+      internalID: 1729690830127516511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprouts_trimmings_9
+      rect:
+        serializedVersion: 2
+        x: 597
+        y: 656
+        width: 71
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c2bf69416da581f0800000000000000
+      internalID: -1043237105310911799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprouts_trimmings_10
+      rect:
+        serializedVersion: 2
+        x: 964
+        y: 609
+        width: 39
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eaf7f7a400f96fa50800000000000000
+      internalID: 6554601131283021742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprouts_trimmings_11
+      rect:
+        serializedVersion: 2
+        x: 487
+        y: 573
+        width: 44
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc4150f898b54e2f0800000000000000
+      internalID: -944529375472839473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprouts_trimmings_12
+      rect:
+        serializedVersion: 2
+        x: 936
+        y: 565
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea196f57035439d20800000000000000
+      internalID: 3284044627723063726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprouts_trimmings_13
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 258
+        width: 192
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c54caa814e1d573f0800000000000000
+      internalID: -903585372621323172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprouts_trimmings_14
+      rect:
+        serializedVersion: 2
+        x: 516
+        y: 263
+        width: 132
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d35134bc6d1d3810800000000000000
+      internalID: 1746584583206425553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprouts_trimmings_15
+      rect:
+        serializedVersion: 2
+        x: 860
+        y: 262
+        width: 157
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0bb03e78ffbd96b10800000000000000
+      internalID: 1975351802121620400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprouts_trimmings_16
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 78
+        width: 192
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f27c2d8f634eb6e0800000000000000
+      internalID: -1819943053022170384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprouts_trimmings_17
+      rect:
+        serializedVersion: 2
+        x: 516
+        y: 83
+        width: 132
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0903d1d5ccee95b80800000000000000
+      internalID: -8405424668007386992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprouts_trimmings_18
+      rect:
+        serializedVersion: 2
+        x: 860
+        y: 82
+        width: 157
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ef0d4010fd0ebd30800000000000000
+      internalID: 4449008806605426662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      sprouts_trimmings_0: 5289548332188948489
+      sprouts_trimmings_1: -2889386126624859139
+      sprouts_trimmings_10: 6554601131283021742
+      sprouts_trimmings_11: -944529375472839473
+      sprouts_trimmings_12: 3284044627723063726
+      sprouts_trimmings_13: -903585372621323172
+      sprouts_trimmings_14: 1746584583206425553
+      sprouts_trimmings_15: 1975351802121620400
+      sprouts_trimmings_16: -1819943053022170384
+      sprouts_trimmings_17: -8405424668007386992
+      sprouts_trimmings_18: 4449008806605426662
+      sprouts_trimmings_2: -5006749516809339958
+      sprouts_trimmings_3: 7520388974541587486
+      sprouts_trimmings_4: 1587817168119006850
+      sprouts_trimmings_5: -6776196331253087926
+      sprouts_trimmings_6: -8869142043751030869
+      sprouts_trimmings_7: -8031982264270315978
+      sprouts_trimmings_8: 1729690830127516511
+      sprouts_trimmings_9: -1043237105310911799
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
