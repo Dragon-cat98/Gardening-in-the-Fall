@@ -28,6 +28,6 @@ Assets: some made by me some others made by kayillustrations
 * other assets: google & pixabay
 
 # Screenshots
-<img align = "right" width="450" height="228.495" alt="Screenshot 2026-09-27 212024" src="https://github.com/user-attachments/assets/816f2999-c587-4587-90ff-7a7a5fe5d7d6" />
-<img align = "right" width="450" height="228.495" alt="Screenshot 2026-09-27 212045" src="https://github.com/user-attachments/assets/6b94ae46-54dc-4505-a429-fe89ce9b6c0e" />
+<img width="450" height="228.495" alt="Screenshot 2026-09-27 212024" src="https://github.com/user-attachments/assets/816f2999-c587-4587-90ff-7a7a5fe5d7d6" />
+<img  width="450" height="228.495" alt="Screenshot 2026-09-27 212045" src="https://github.com/user-attachments/assets/6b94ae46-54dc-4505-a429-fe89ce9b6c0e" />
 
